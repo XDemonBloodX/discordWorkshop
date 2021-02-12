@@ -34,6 +34,6 @@ npm i discord.js
 npm i canvas  
 npm i @vitalets/google-translate-api  
 
-Page des [Exercices](https://github.com/XDemonBloodX/workshopDiscord/blob/master/exo.md) !
+Page des [Exercices](https://github.com/XDemonBloodX/discordWorkshop/blob/main/botDiscordExercice/exo.md) !
 
 
