@@ -1,0 +1,28 @@
+[{
+        "question": "What color is the sky?",
+        "answers": ["blue"]
+    },
+    {
+        "question": "How many letters are there in the alphabet?",
+        "answers": ["26", "twenty-six", "twenty six", "twentysix"]
+    },
+    {
+        "question": "What is the capital of Paris?",
+        "answers": ["Paris"]
+    }, {
+        "question": "What is the color of henri 4's white horse?",
+        "answers": ["Black"]
+    }, {
+        "question": "What are the 2 main ingredients of bread?",
+        "answers": ["flour water", "water flour"]
+    }, {
+        "question": "What is the name of the Nice Sea?",
+        "answers": ["Mediterranean Sea"]
+    }, {
+        "question": "what is the name of the baby dog?",
+        "answers": ["Puppy"]
+    }, {
+        "question": "What day is christmas?",
+        "answers": ["25", "25th", "25", "twenty-five"]
+    }
+]
