@@ -25,8 +25,7 @@ node --version
 
 Download Files on GIT HUB:
 --------------------------
-https://github.com/XDemonBloodX/workshopDiscord
-
+https://github.com/XDemonBloodX/discordWorkshop/tree/main/botDiscordExercice
 Install npm
 -----------
 npm init -y  
