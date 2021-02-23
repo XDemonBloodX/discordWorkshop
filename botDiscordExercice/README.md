@@ -28,10 +28,8 @@ Download Files on GIT HUB:
 https://github.com/XDemonBloodX/discordWorkshop
 Install npm
 -----------
-npm init -y  
-npm i discord.js  
-npm i canvas  
-npm i @vitalets/google-translate-api  
+npm i  
+
 
 Page des [Exercices](https://github.com/XDemonBloodX/discordWorkshop/blob/main/botDiscordExercice/exo.md) !
 
