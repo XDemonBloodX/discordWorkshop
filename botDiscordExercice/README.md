@@ -39,10 +39,10 @@ Download Files on GIT HUB:
 https://github.com/XDemonBloodX/discordWorkshop
 
 .env:
-BOT_TOKEN=met ton token
-OwnerID= met ton id user
-PREFIX= met le prefix de ton choix (pas trop dure)
-WELCOME= C'est mon message !
+> BOT_TOKEN=met ton token  
+OwnerID= met ton id user  
+PREFIX= met le prefix de ton choix (pas trop dure)  
+WELCOME= C'est mon message !  
 
 Install npm
 -----------
