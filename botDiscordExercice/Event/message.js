@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const prefix = "=";
+const prefix = process.env.PREFIX;
 
 module.exports = async(bot, message) => {
     if (message.author.bot) return;
