@@ -16,12 +16,20 @@ Linux:
 ------
 sudo apt update 
 sudo apt -y upgrade  
-sudo apt -y install curl dirmngr apt-transport-https lsb-release ca-certificates  
 curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -  
 sudo apt -y install nodejs  
 sudo apt -y  install gcc g++ make  
+
+Fedora:
+-------
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -
+sudo dnf install -y gcc-c++ make
+sudo dnf install -y nodejs
+
+
 node --version  
-> Vous devriez avoir ça : v12.10.0
+> Vous devriez avoir ça : v12...
+
 
 Download Files on GIT HUB:
 --------------------------
