@@ -4,10 +4,11 @@ Vous devrez recevoir "pong" par le bot dans le salon où vous avez envoyé le me
 https://discord.js.org/#/docs/main/stable/examples/ping
 
 
-# 2) Ping intra-epitech
+# 2) Ping client bot
 
-Pensez à utilisez le npm ping :p
-Creer votre premier fichier dans /Commands/ nommé pingGoogle.js
+Votre bot doit vous envoyer le ping du bot
+Utilisez le fichier /Commands/ping.js
+
 
 # 3) Ready bot
 
