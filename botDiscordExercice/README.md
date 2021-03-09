@@ -9,7 +9,7 @@ INVITE:
 https://discord.com/oauth2/authorize?client_id={YOUR ID CLIENT}&scope=bot
 
 
-Pour éviter toutes installations, vous pouvez utilisez https://repl.it/
+Pour éviter toutes installations, vous pouvez utilisez https://repl.it/  
 Windows:
 --------
 https://nodejs.org/dist/v12.19.0/node-v12.19.0-win-x64.zip
