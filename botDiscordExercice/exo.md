@@ -11,7 +11,7 @@ Utilisez le fichier /Commands/ping.js
 
 
 # 3) Ready bot
-
+(index.js)
 Configurer le setPresence du bot.
  --> Online
  --> Nom de l'activité
@@ -30,7 +30,8 @@ Pour rendre plus jolie:
     .setImage(image + "?size2048")
 
 # 6) Welcome text
-  
+  (index.js)
+
 Indice: client.on("message")
 Et si on pouvait récupérer les nouveaux membres comme pour les messages?
 Pensez à cocher dans votre application Developper discord:
@@ -39,6 +40,7 @@ Pensez à cocher dans votre application Developper discord:
 > Good Luck
 
 # 7) Welcome canvas
+(index.js)
 
 https://discordjs.guide/popular-topics/canvas.html  
 Suivez le guide discord.
@@ -47,6 +49,7 @@ A faire dans le fichier /Commands/welcome/welcome.js
 
 
 # 8) Use api Traduction
+(index.js)
 
 Votre but, traduire une langue tel que le français en anglais dans un autre salon et inversement.  
 Sans DB, je vous recommande de gérer les messages send par le name du serveur (plus flexible)ou par un id(plus facile).
