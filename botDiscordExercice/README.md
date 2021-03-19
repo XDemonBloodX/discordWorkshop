@@ -35,7 +35,7 @@ node --version
 
 Download Files on GIT HUB:
 --------------------------
-https://github.com/XDemonBloodX/discordWorkshop
+https://github.com/XDemonBloodX/botDiscordExercice
 
 .env:
 > BOT_TOKEN=met ton token  
