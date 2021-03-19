@@ -1,5 +1,5 @@
 # 1) Reply message
-Vous devrez recevoir "pong" par le bot dans le salon où vous avez envoyé le message ping. 
+Vous devrez recevoir "pong" par le bot dans le salon où vous avez envoyé le message prefix+ping. 
 (à faire dans le fichier Commands/pong.js)  
 https://discord.js.org/#/docs/main/stable/examples/ping
 
