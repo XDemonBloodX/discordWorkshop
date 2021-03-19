@@ -46,7 +46,7 @@ WELCOME= C'est mon message !
 Install npm
 -----------
 npm i  
-
+npm i dotenv
 
 Page des [Exercices](https://github.com/XDemonBloodX/discordWorkshop/blob/main/botDiscordExercice/exo.md) !
 
