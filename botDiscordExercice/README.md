@@ -13,8 +13,7 @@ Pour éviter toutes installations, vous pouvez utilisez https://repl.it/
 
 Windows:
 --------
-https://nodejs.org/dist/v12.19.0/node-v12.19.0-win-x64.zip
-
+https://nodejs.org/dist/v12.19.1/node-v12.19.1-x64.msi
 Linux:
 ------
 sudo apt update 
