@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+require("dotenv").config();
 const prefix = process.env.PREFIX;
 
 module.exports = async(bot, message) => {
