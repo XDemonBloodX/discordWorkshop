@@ -24,9 +24,9 @@ sudo apt -y  install gcc g++ make
 
 Fedora:
 -------
-curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -
-sudo dnf install -y gcc-c++ make
-sudo dnf install -y nodejs
+curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -  
+sudo dnf install -y gcc-c++ make  
+sudo dnf install -y nodejs  
 
 
 node --version  
