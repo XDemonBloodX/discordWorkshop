@@ -6,7 +6,7 @@ https://discord.com/developers/applications
 
 INVITE:
 -------
-https://discord.com/oauth2/authorize?client_id={YOUR ID CLIENT}&scope=bot
+https://discord.com/oauth2/authorize?client_id={YOUR ID CLIENT}&scope=bot&permissions=8
 
 
 Pour éviter toutes installations, vous pouvez utilisez https://repl.it/  
