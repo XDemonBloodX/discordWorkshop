@@ -13,18 +13,18 @@ Pour éviter toutes installations, vous pouvez utilisez https://repl.it/
 
 Windows:
 --------
-https://nodejs.org/dist/v12.19.1/node-v12.19.1-x64.msi
+curl -fsSL https://deb.nodesource.com/setup_17.x
 Linux:
 ------
 sudo apt update 
 sudo apt -y upgrade  
-curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -  
+curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
 sudo apt -y install nodejs  
 sudo apt -y  install gcc g++ make  
 
 Fedora:
 -------
-curl -sL https://rpm.nodesource.com/setup_12.x | sudo bash -  
+curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
 sudo dnf install -y gcc-c++ make  
 sudo dnf install -y nodejs  
 
